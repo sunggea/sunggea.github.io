@@ -17,7 +17,7 @@
 - Tech Stack: Adam Optimizer, Transformers, face forensic++
 - Goals: Using AI, deepfake images can be distinguished by analyzing movement patterns, viewpoints, backgrounds, and voice patterns from images
 
-- ## CV / Resume[Download My Resume](resume.md.pdf)
+- ## CV / Resume[Download My Resume]([resume.md.pdf](https://github.com/sunggea/sunggea.github.io/blob/main/resume.md#cv--resumedownload-my-resume))
 
 - ## Contact
 - Email: sungyun3708@naver.com
