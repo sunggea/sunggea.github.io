@@ -19,7 +19,7 @@
 - Key Features: 주요 기능
 - Results: 결과 또는 성과
 
-- ## CV / Resume[Download My Resume](./resume.pdf)
+- ## CV / Resume[Download My Resume](resume.md.pdf)
 
 - ## Contact
 - Email: sungyun3708@naver.com
