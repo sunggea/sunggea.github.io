@@ -12,14 +12,12 @@
 - Web: HTML,React- Tools: Git, GitHub
 - Database: MySQL, Oracle Database
 
-## Project
-- Summary: 한 줄 요약
-- Period: 수행 기간
-- Tech Stack: 사용 기술
-- Key Features: 주요 기능
-- Results: 결과 또는 성과
+## Planning Project
+- Summary: Improving performance by incorporating AI into deepfake detection technology
+- Tech Stack: Adam Optimizer, Transformers, face forensic++
+- Goals: Using AI, deepfake images can be distinguished by analyzing movement patterns, viewpoints, backgrounds, and voice patterns from images
 
-- ## CV / Resume[Download My Resume](resume./md.pdf)
+- ## CV / Resume[Download My Resume](resume.md.pdf)
 
 - ## Contact
 - Email: sungyun3708@naver.com
